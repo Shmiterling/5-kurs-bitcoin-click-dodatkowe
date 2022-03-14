@@ -1,0 +1,21 @@
+#kurs {
+  width: 300px;
+}
+
+button {
+  padding: 10px 25px;
+  border:none;
+  background-color: #52b352;
+  color:white
+}
+.fa-arrows-left-right {
+  color: blue;
+}
+
+.fa-arrow-down {
+  color:red;
+}
+
+.fa-arrow-up{
+  color: green;
+}
